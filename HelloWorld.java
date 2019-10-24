@@ -11,6 +11,6 @@ class HelloWorld
         System.out.println("Test Line 2"); 
         System.out.println("Test Line 3");
 	System.out.println("Test Line 4"); 
-	System.out.println("New Line")
+	System.out.println("New Line");
     } 
 }
